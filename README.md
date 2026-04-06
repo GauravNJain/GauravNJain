@@ -129,7 +129,7 @@ Competing in global CTFs with **pwnz0r** — reverse engineering, pwning, osint 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/gauravnjain)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/gauravnjain_)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/gauravnjain)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/GauravNJain)
 
 </div>
 
