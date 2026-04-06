@@ -10,10 +10,12 @@
  ╚═════╝  ╚══╝╚══╝ ╚═╝  ╚═══╝╚══════╝╚═════╝
 ```
 
-### `whoami`
-**cybersecurity guy · computer nerd · always learning**
+### `$whoami`
+**cybersecurity guy · computer nerd, i guess · always learning**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Breaking+things+to+understand+them.;Security+is+a+mindset%2C+not+a+feature.;Stay+curious.+Stay+humble.;chmod+777+my_curiosity.sh)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Breaking+things+to+understand+them.;Security+is+a+mindset%2C+not+a+feature.;Stay+curious.+Stay+humble.;chmod+777+my_curiosity.sh)](https://git.io/typing-svg)-->
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Breaking+things+to+understand+them.;Security+is+a+mindset%2C+not+a+feature.;Stay+curious.+Stay+humble.;chmod+777+my_curiosity.sh;i+use+Arch+btw+%F0%9F%90%A7)](https://git.io/typing-svg)
 
 </div>
 
@@ -24,7 +26,7 @@
 ```python
 class Me:
     def __init__(self):
-        self.name        = "your_name_here"        # change this
+        self.name        = "Gaurav N Jain"        # change this
         self.role        = "Cybersecurity Enthusiast"
         self.location    = "somewhere on the internet"
         self.interests   = [
@@ -49,10 +51,10 @@ class Me:
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41)
+<!-- ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41) //yet to learn a bit-->
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF41)
-![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=00FF41)
+<!-- ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=00FF41) //yet to learn a bit-->
 
 **Security & Tools**
 
