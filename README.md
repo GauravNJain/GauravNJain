@@ -11,7 +11,8 @@
 ``` -->
 
 ### `$whoami`
-**cybersecurity guy · computer nerd, i guess · always learning**
+<!-- **cybersec guy · computer nerd, i guess · larprmaxxer** -->
+**a fellow netizen · cybersec guy · larprmaxxer**
 
 <!--[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=Breaking+things+to+understand+them.;Security+is+a+mindset%2C+not+a+feature.;Stay+curious.+Stay+humble.;chmod+777+my_curiosity.sh)](https://git.io/typing-svg)-->
 
@@ -26,14 +27,14 @@
 ```python
 class Me:
     def __init__(self):
-        self.name        = "Gaurav N Jain"        # change this
-        self.role        = "Cybersecurity Enthusiast"
+        self.name        = "Gaurav N Jain"
+        self.role        = "just a tech"
         self.location    = "somewhere on the internet"
         self.interests   = [
             "ethical hacking",
             "network security",
-            "CTF challenges",
-            "reverse engineering",
+            "CTF challenges (I am down for whenever, just hmu)",
+            "reverse engineering", # (i just added this to look cool)
             "how computers actually work",
         ]
         self.vibe        = "just a chill guy who thinks computers are cool as hell"
@@ -98,7 +99,8 @@ i'll add in sometime hehe
 
 ## 🚩 CTFs <!-- & Projects -->
 
-> *"The best way to understand a system is to try to break it."*
+> Flag thief by day, caffine addict by night :P
+<!-- > *"The best way to understand a system is to try to break it."* -->
 
 Competing in global CTFs with **pwnz0r** — reverse engineering, pwning, osint and whatever it takes to get the flag. We play to win.
 <!--
@@ -129,7 +131,7 @@ Competing in global CTFs with **pwnz0r** — reverse engineering, pwning, osint 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/gauravnjain)
 [![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/gauravnjain_)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/GauravNJain)
+<!-- [![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/GauravNJain) -->
 
 </div>
 
