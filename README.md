@@ -99,6 +99,8 @@ i'll add in sometime hehe
 ## 🚩 CTFs <!-- & Projects -->
 
 > *"The best way to understand a system is to try to break it."*
+
+Competing in global CTFs with **pwnz0r** — reverse engineering, pwning, osint and whatever it takes to get the flag. We play to win.
 <!--
 - 🔍 Solving CTF challenges on **TryHackMe** & **HackTheBox**
 - 🛠️ Building small security tools and scripts
@@ -112,9 +114,9 @@ i'll add in sometime hehe
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&hide_border=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravNJain&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=ffffff)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravNJain&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=ffffff)
 
 </div>
 
@@ -124,9 +126,9 @@ i'll add in sometime hehe
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/YOUR_USERNAME)
-[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/YOUR_USERNAME)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00FF41)](https://linkedin.com/in/gauravnjain)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=00FF41)](https://twitter.com/gauravnjain_)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41)](https://tryhackme.com/p/gauravnjain)
 
 </div>
 
