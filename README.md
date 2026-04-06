@@ -54,46 +54,57 @@ class Me:
 <!-- ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00FF41) //yet to learn a bit-->
 ![Bash](https://img.shields.io/badge/Bash-0d1117?style=for-the-badge&logo=gnubash&logoColor=00FF41)
 ![C](https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00FF41)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=00FF41)
 <!-- ![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=sqlite&logoColor=00FF41) //yet to learn a bit-->
 
 **Security & Tools**
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41)
-![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=data:image/png;base64,&logoColor=00FF41)
-![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logoColor=00FF41)
+<!-- ![Kali Linux](https://img.shields.io/badge/Kali_Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00FF41) -->
 ![Nmap](https://img.shields.io/badge/Nmap-0d1117?style=for-the-badge&logoColor=00FF41)
+![Wireshark](https://img.shields.io/badge/Wireshark-0d1117?style=for-the-badge&logo=wireshark&logoColor=00FF41)
+![Metasploit](https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=00FF41)
+![And More](https://img.shields.io/badge/and%20more%20%3B%29-0d1117?style=for-the-badge&logoColor=00FF41)
+<!-- ![Burp Suite](https://img.shields.io/badge/Burp_Suite-0d1117?style=for-the-badge&logo=data:image/png;base64,&logoColor=00FF41) -->
 
-**Platforms**
+**Misc**
+
+![Wazuh](https://img.shields.io/badge/Wazuh-0d1117?style=for-the-badge&logo=wazuh&logoColor=00FF41)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0d1117?style=for-the-badge&logo=microsoft&logoColor=00FF41)
+![Splunk](https://img.shields.io/badge/Splunk-0d1117?style=for-the-badge&logo=splunk&logoColor=00FF41)
+<!-- ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41) //this technically ain't a platform -->
+<!-- ![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41) -->
+<!-- ![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41) -->
+
+**Operating Systems**
 
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=00FF41)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=00FF41)
-![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=00FF41)
+![Windows](https://img.shields.io/badge/Windows-0d1117?style=for-the-badge&logo=windows&logoColor=00FF41)
 
 </div>
 
 ---
 
 ## 📡 What I'm Into
-
+<!--
 ```
 [▓▓▓▓▓▓▓▓▓▓] Network Security       100%  — packets don't lie
 [▓▓▓▓▓▓▓▓░░] Ethical Hacking         80%  — always learning
 [▓▓▓▓▓▓▓░░░] Linux & Systems         70%  — it's always a Linux problem
 [▓▓▓▓▓▓░░░░] Reverse Engineering     60%  — peak curiosity mode
 [▓▓▓▓░░░░░░] Malware Analysis        40%  — getting there
-```
-
+``` -->
+i'll add in sometime hehe
 ---
 
-## 🚩 CTF & Projects
+## 🚩 CTFs <!-- & Projects -->
 
 > *"The best way to understand a system is to try to break it."*
-
+<!--
 - 🔍 Solving CTF challenges on **TryHackMe** & **HackTheBox**
 - 🛠️ Building small security tools and scripts
 - 📖 Going deep into how protocols actually work under the hood
 - 🧪 Home lab experiments — because theory only gets you so far
+-->
 
 ---
 
