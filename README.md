@@ -117,8 +117,6 @@ Competing in global CTFs with **pwnz0r** — reverse engineering, pwning, osint 
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravNJain&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff&hide_border=false)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GauravNJain&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&icon_color=00FF41&title_color=00FF41&text_color=ffffff)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GauravNJain&layout=compact&theme=chartreuse-dark&bg_color=0d1117&border_color=00FF41&title_color=00FF41&text_color=ffffff)
 
 </div>
