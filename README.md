@@ -94,7 +94,9 @@ class Me:
 [▓▓▓▓▓▓░░░░] Reverse Engineering     60%  — peak curiosity mode
 [▓▓▓▓░░░░░░] Malware Analysis        40%  — getting there
 ``` -->
-i'll add in sometime hehe
+```
+[ i'll add in sometime hehe ]
+```
 ---
 
 ## 🚩 CTFs <!-- & Projects -->
