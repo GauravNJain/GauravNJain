@@ -1,6 +1,6 @@
 ### 🥳 About Me
 ---
-<img align="right" width="193" height="193" src="sinon.gif" alt="Avatar"/>
+<img align="right" width="193" height="193" src="toad.gif" alt="Avatar"/>
 
 - You can call me **GauravNJain**.
 - Founder & Team Captain **[@pwnz0r CTF Team](https://github.com/pwnz0r-ctf)**.
